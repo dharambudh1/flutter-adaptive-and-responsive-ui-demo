@@ -1,16 +1,10 @@
-# flutter_web_navigation
+# Flutter Adaptive & Responsive UI Demo
 
-A new Flutter project.
+## Description:
+This project is runnable on Android, iOS, & a web browser. It has responsive breakpoints for adaptive & responsive UI for different screen sizes. It supports phones, tablets, monitors, & 4K resolution screens (TVs).
 
-## Getting Started
+- Demonstrating the Adaptive & Responsive UI: [Watch here](https://www.veed.io/view/d266446c-b2c3-4210-a0b1-f64e2205cd78?sharingWidget=true&panel=share)
+- Demonstrating the System's Themes Adaption: [Watch here](https://www.veed.io/view/ff38605d-2ac4-478b-8fea-a3892e7e068c?sharingWidget=true&panel=share)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/G2tGzKth/Screenshot.png "img")
